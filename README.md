@@ -1,2 +1,3 @@
 # nosql-challenge
-Northwestern Data Science Bootcamp HW12
+
+The main notebooks are NoSQL_analysis.ipynb and NoSQL_setup.ipynb.
